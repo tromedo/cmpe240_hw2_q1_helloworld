@@ -1,0 +1,23 @@
+# Vivado generated
+*.runs/
+*.cache/
+*.hbs/
+*.sim/
+*.ip_user_files/
+*.gen/
+*.hw/
+*.xpr.bak
+*.jou
+*.log
+*.dcp
+*.bit
+*.ltx
+
+# Vitis generated  
+
+CanvasPlatform/
+/build
+/export
+_ide/
+*.elf
+*.o
